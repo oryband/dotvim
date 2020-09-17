@@ -1,1 +1,1 @@
-DEPRECATED. Please see up-to-date confiugration in my [dotfiles](github.com/oryband/dotfiles) repository.
+DEPRECATED. Please see up-to-date confiugration in my [dotfiles](https://github.com/oryband/dotfiles) repository.
