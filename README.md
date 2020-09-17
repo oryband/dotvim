@@ -1,1 +1,1 @@
-My Vim setup. Fork at will. :fork_and_knife:
+DEPRECATED. Please see up-to-date confiugration in my [dotfiles](github.com/oryban/dotfiles) repository.
